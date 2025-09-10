@@ -40,10 +40,10 @@ RobloxJuego es exclusivamente para uso local en Roblox Studio (modo de un solo j
 
 **📸 Captura de Pantalla**  
 **RobloxJuego en Acción** 🎥  
-![Vista Previa](https://i.sooftcdn.com/screen/es/robloxjuego.png)  
+![Vista Previa](https://i.imgur.com/vVhwCTT.png)  
 
 **Segundo ejemplo visual que demuestra el funcionamiento del proyecto** 🌟  
-![Vista Previa 2](https://i.sooftcdn.com/screen/es/robloxjuego2.png)  
+![Vista Previa 2](https://i.imgur.com/UtyXO2m.png)  
 
 **🤗 Cómo Colaborar**  
 ¡Tus ideas son valiosas! Abre un *issue* para sugerencias o envía *pull requests*. Todas las contribuciones deben cumplir con los Términos de GitHub y Roblox. 🌟  
