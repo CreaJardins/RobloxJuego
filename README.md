@@ -1,5 +1,8 @@
 # 🎮 RobloxJuego 🌟  
 
+
+![Vista Previa](https://i.imgur.com/ZqvaHcL.jpeg) 
+
 ![Visitantes: 18K+](https://img.shields.io/badge/Visitantes-18K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
 **🌈 ¡Construye Mundos Únicos!**  
